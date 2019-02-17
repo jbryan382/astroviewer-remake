@@ -1,5 +1,8 @@
 :root {
   font: 16px / 1 sans-serif;
+  --primary-color: #512da8;
+  --accent-color: #ffc107;
+  --text-color: #212121;
 }
 
 html {
